@@ -1,28 +1,21 @@
 <img src="./assets/img.gif" />
 <br >
-<br >
 
 ## Davyson de Melo 🎮
 
 <a href="https://github.com/DavysonMelo">
   <img src="https://img.shields.io/github/followers/DavysonMelo?style=social" />
 </a>
-
 <br >
-<br >
-
 <p>Hello there, i'm a computer science student and full stack developer who loves technology and games, focusing on improving my development skills and learn new things.</p>
 <p>You can also find me on <a src="https://www.linkedin.com/in/davysonmelo/">Linkedin</a></p>
-<br >
 <br >
 
 #### 🗣 Languages
 
 - **Portuguese:** Native
 - **English:** Advanced
-
-<br >
-<br >
+  <br >
 
 #### ⚙ Skills
 
