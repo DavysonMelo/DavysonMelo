@@ -8,7 +8,8 @@
 </a>
 <br >
 <p>Hello there, i'm a computer science student and full stack developer who loves technology and games, focusing on improving my development skills and learn new things.</p>
-<p>You can also find me on <a src="https://www.linkedin.com/in/davysonmelo/">Linkedin</a></p>
+
+You can also find me on [Linkedin](https://www.linkedin.com/in/davysonmelo/)
 <br >
 
 #### 🗣 Languages
