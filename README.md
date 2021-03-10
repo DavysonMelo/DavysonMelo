@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/followers/DavysonMelo?style=social" />
 </a>
 <br >
-<p>Hello there, i'm a computer science student and full stack developer who loves technology and games, focusing on improving my development skills and learn new things.</p>
+<p>Hello there, I'm a computer science student and full stack developer who loves technology and games, focusing on improving my development skills and learn new things.</p>
 
 You can also find me on [Linkedin](https://www.linkedin.com/in/davysonmelo/)
 <br >
