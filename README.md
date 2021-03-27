@@ -31,6 +31,10 @@ You can also find me on [Linkedin](https://www.linkedin.com/in/davysonmelo/)
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql)
 ![Mongo](https://img.shields.io/badge/-MongoDB-222222?style=flat&logo=mongodb)
 
+<a href="https://github.com/DavysonMelo">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavysonMelo&langs_count=3"/>
+</a>
+
 #### :octocat: Github stats
 
 <br >
