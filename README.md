@@ -1,6 +1,3 @@
-<img src="./assets/img.gif" />
-<br >
-
 ## Davyson de Melo 🎮
 
 <a href="https://github.com/DavysonMelo">
